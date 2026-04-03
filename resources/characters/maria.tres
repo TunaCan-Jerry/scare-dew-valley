@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="CharacterData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/data/character_data.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+character_name = "Maria"
+description = "A former ER nurse. Calm under pressure and warm-hearted, though she guards her past closely."
+trait_name = "Healer"
+trait_description = "Treats status effects faster and can stabilize injured characters."
+color = Color(0.85, 0.35, 0.4, 1)
+greeting_lines = PackedStringArray("Morning. How are you holding up?", "Need anything patched up?", "I checked the supplies — we're okay for now.", "Try to get some rest tonight. I mean it.", "Another day. Let's make it count.")
+preferred_gifts = PackedStringArray("medicinal_herbs", "bandages", "coffee")
