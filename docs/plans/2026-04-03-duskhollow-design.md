@@ -1,4 +1,4 @@
-# Duskhollow Farm — Game Design Document
+# Scaredew Valley — Game Design Document
 
 ## Elevator Pitch
 

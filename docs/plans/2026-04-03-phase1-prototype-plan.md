@@ -1,4 +1,4 @@
-# Duskhollow Farm — Phase 1 Prototype Implementation Plan
+# Scaredew Valley — Phase 1 Prototype Implementation Plan
 
 > **For Claude:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.
 
@@ -28,7 +28,7 @@
 config_version=5
 
 [application]
-config/name="Duskhollow Farm"
+config/name="Scaredew Valley"
 run/main_scene="res://scenes/game.tscn"
 config/features=PackedStringArray("4.3")
 
