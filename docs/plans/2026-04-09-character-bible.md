@@ -186,3 +186,157 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 - **Max-bond ability:** Hold The Line — once per night, one wall section becomes indestructible for one wave. He just stands there. Nothing gets through.
 - **Weakness:** Bad knee (slow). PTSD — loud unexpected blasts cause brief freeze. Nightmares return when morale is low.
 - **Romanceable:** Yes — quiet, complicated. Afraid of getting close again.
+
+---
+
+### 7. Pax — Armorer (Fighter + Fixer)
+
+- **Age:** Early 20s (21-22)
+- **Gender:** Non-binary (they/them)
+- **Personality:** Quiet — not shy, just doesn't see the point in talking when they could be building. Disappears into projects for hours and forgets to eat. Communicates by showing, not telling. Flat delivery people mistake for rudeness. Genuinely doesn't understand why people are impressed by their work.
+- **Pre-apocalypse:** Worked at a hardware store to fund competitive robot building, drone modding, electronics tinkering. Apartment was more workshop than living space. Built a fighting robot that placed 3rd regionally.
+- **Arrival:** Found on excursion at a hardware store they've fortified — rigged motion-sensor alarms, jury-rigged a nail gun turret, built electric fence from car batteries.
+- **Trait:** Jury-Rigger — builds turrets/traps from scrap without blueprints. Builds cost less but have lower HP. Can create unique improvised defenses (nail gun turrets, electric fences, motion alarms).
+- **Gameplay:** Cheap, fast, creative alternative to Rowan. Fragile builds but half the cost. Electronics specialist — floodlight upgrades, sensor systems.
+- **Heart events:** H2: workspace with every tool in place, notices if you touch anything. H4: leaves an upgrade on your doorstep, no note. H6: caught talking to a drone, embarrassed — first real emotion. H8: a build fails and someone gets hurt, they go silent for days, rebuild obsessively. H10: builds something extraordinary. "I had parts left over. It's not a big deal." It is.
+- **Max-bond ability:** Overclock — all turrets/traps in a section fire 3x speed for one wave. Some may break after.
+- **Weakness:** Forgets to eat/sleep, builds are fragile, socially checked out, spirals without projects.
+- **Romanceable:** Yes — love language is building things for you.
+
+---
+
+### 8. Jasper — Warrior (Fighter + Fighter)
+
+- **Age:** Mid 25s
+- **Gender:** Male
+- **Personality:** Genuinely sweet. Polite to a fault — "yes ma'am," holds doors in the apocalypse. A little slow in conversation, tells long meandering stories. Laughs at his own jokes. Zero ego about his skill — "Well it wasn't that far." It was 350 yards. In the dark. Gomer Pyle energy with a sniper's precision.
+- **Pre-apocalypse:** Grew up on a farm, hunting since childhood. Joined Army because granddad and dad did. Natural marksman, pulled into sniper program. One tour. Good at it, hated being good at it. Came home, worked at the feed store.
+- **Arrival:** Wanders up with hunting rifle and backpack of beef jerky. Asks politely for work. Doesn't mention military. You find out he's a sniper the first night when something drops at the treeline.
+- **Trait:** Dead Eye — massive range, highest single-target damage, very slow fire rate. Needs sniper nest or elevation. Picks off high-value targets. Also decent farmer during the day.
+- **Heart events:** H2: helps with farm work, relaxed and happy. H4: practices shooting at dawn, every morning. "Cause the one time I don't..." H6: talks about home, uncle, dog. Doesn't believe they're okay. H8: makes a razor-thin shot saving someone, found shaking after. Doesn't like what he's good at. H10: hand-carved wooden figures of everyone on the farm. "Figured somebody oughta remember."
+- **Max-bond ability:** One Shot — instantly kill any non-boss enemy regardless of range. 40% max HP on bosses.
+- **Weakness:** Useless against hordes, no close-quarters, needs elevation. Carrying more than he lets on.
+- **Romanceable:** Yes — sweet, earnest. Depth behind the "aw shucks."
+
+---
+
+### 9. Marco — Sensei (Fighter + Community) [*needs detail pass*]
+
+- **Age:** Late 20s
+- **Gender:** Male
+- **Personality:** Warm, loud, energetic. Genuinely believes in people. Talks with his hands, swears casually. Argues politics with joy not anger. First to volunteer. Channels frustration into motivation.
+- **Pre-apocalypse:** Electrician, union steward. SRA firearms instructor — ran weekend training for first-timers, single moms, queer kids. Had a podcast with 200 listeners about labor organizing.
+- **Arrival:** Shows up with a small group he's been keeping alive. They scatter, he stays. Immediately starts organizing work shifts and offering to teach shooting.
+- **Trait:** Community Defense — defenders in his zone get +25% accuracy, +15% damage. Can train characters during the day to permanently improve combat stats.
+- **Max-bond ability:** Solidarity — all defenders fight at max effectiveness for one wave regardless of morale/injuries/debuffs.
+- **Weakness:** Spreads thin, burns out. Can't sit still. Average solo stats — needs people to shine.
+- **Romanceable:** Yes
+
+---
+
+### 10. Zoe (pronounced like "toe") — Tactician (Fighter + Knowledge)
+
+- **Age:** Mid 25s (25-26)
+- **Gender:** Female
+- **Personality:** Talks fast, thinks faster. Speaks in game metaphors ("turtle this wave," "zerg rush east side"). Bouncy energy that reads as scattered until you realize she hasn't been wrong yet. Gets excited about elegant solutions. Strong opinions about board game rankings. Stays up late, drinks too much coffee. NOT performing quirky — this is just her speed. Has crash days where the energy disappears.
+- **Pre-apocalypse:** Worked at a board game cafe. Regional chess champion at 16, lost interest. Moved to Go, competitive Starcraft, tabletop wargaming. College dropout from boredom. Small Twitch stream. Never held a gun.
+- **Arrival:** Shows up with hand-drawn map of enemy movement patterns she's been tracking from a rooftop. "Your defense layout is wrong. Like, really wrong. Can I come in?"
+- **Trait:** Grandmaster — optimizes turret placement (+15% damage, +20% range in her layouts). Predicts wave composition one night in advance.
+- **Gameplay:** Not a fighter. Makes everyone's positioning optimal. Synergizes with Everett (enemy knowledge + tactics).
+- **Heart events:** H2: reorganizes your storage without asking. Annoying. Better. H4: board game, she wins, secret fist pump. H6: reads aloud to you. "My D&D group used to do this." H8: a plan fails, locks herself in with maps for two days. "If I just think harder—" H10: notebook of strategies, margins full of drawings of farm moments. Last page: you.
+- **Max-bond ability:** Perfect Strategy — one wave, every defender and turret acts with perfect coordination. Effective DPS doubled.
+- **Weakness:** Can't fight. Crashes after manic periods. Can seem condescending. Overrides others' plans.
+- **Romanceable:** Yes — MPDG subversion: she's not saving you, you're grounding her.
+
+---
+
+### 11. Folklore Trickster — Fighter + Weird [*needs name/detail pass*]
+
+- **Age:** Appears mid 30s. Isn't.
+- **Gender:** Presents male but flickers. Characters disagree on appearance.
+- **Personality:** Charming, evasive, impossible to pin down. Answers questions with questions. Never afraid. Likes humans the way you like an interesting ant farm. Every interaction feels like a friendly test.
+- **Pre-apocalypse:** "I was a river once. That was boring."
+- **Arrival:** Just there one morning on a fence post. Nobody saw them come.
+- **Name:** Player picks from seed-dependent pool (Mr. Fox, Jack, Robin, Grin, Chance, Nobody, Catch).
+- **Trait:** Trick — high evasion, moderate damage. Places "tricks" that redirect enemy pathing. Semi-random effects.
+- **Gameplay:** Disrupts enemy waves. Enemies behave erratically in their zone. Unreliable but spectacular. Generates unique rare item drops.
+- **Heart events:** H2: story about a fox building a house (it's about you). H4: talking to something invisible. H6: gets serious once — "This wasn't supposed to go like this. Someone cheated." H8: saves a life impossibly, genuinely tired after. It's costing them something. H10: tells you their real name (unpronounceable). Gift that breaks one game rule.
+- **Max-bond ability:** The Oldest Trick — reroute entire wave, all enemies turn around. Doesn't work on bosses.
+- **Weakness:** Unreliable, tricks backfire sometimes, can't do normal work, morale penalty for some characters. Mabel doesn't trust them.
+- **Romanceable:** No — close friendship but always a boundary.
+- **Not human.**
+
+---
+
+### 12. The Deep One — Prophet (Community + Weird)
+
+- **Age:** "Thirty... two? Yes. A normal amount of years."
+- **Gender:** "I have been informed that I am male."
+- **Name:** Seed-dependent from pool: Cornelius, Bartholomew, Reginald, Percival, Humphrey, Archibald, Theodore, Clement. Committed to whichever one. Will correct pronunciation.
+- **Appearance:** Mostly passes. Skin slightly green, eyes too wide, doesn't blink enough, hands too long. Scarf regardless of weather. Scales visible when wet.
+- **Personality:** Painfully earnest. Victorian grammar from books. Misuses idioms with confidence. Fascinated by cooking, music, laughter. Doesn't understand sarcasm. Accidentally hilarious. Lonely in a way they don't have words for.
+- **Pre-apocalypse:** Deep One colony, deep ocean. Colony scattered when something ancient stirred. Secretly fascinated by surface dwellers for years.
+- **Arrival:** Walks up from nearest water in ill-fitting scavenged clothes, carrying waterproof bag of books.
+- **Trait:** Abyssal Knowledge — intel on deep/eldritch enemies, scares off weaker aquatic creatures, doesn't need sleep.
+- **Heart events:** H2: beautiful weird shell gift. "Is this adequate?" H4: standing in rain, most relaxed ever. H6: tries to cook. Technically edible, deeply strange. So proud. H8: called a monster. "Is careful not sufficient?" H10: shows true form. "I did not want you to love a costume."
+- **Max-bond ability:** Call of the Deep — tidal surge AoE, massive damage and knockback.
+- **Weakness:** Dries out without water/rain. Initial morale penalty. Fire defenses less effective near them. Sometimes suggests ethically horrifying solutions casually.
+- **Romanceable:** Yes — unconventional, tender, strange, occasionally body-horror adjacent.
+- **Not human.**
+
+#### Deep One Boss Event
+- **Trigger:** Deep One at 8+ hearts, Night 20+
+- Something they were running from finds them. Massive eldritch sea creature — the thing that destroyed their colony.
+- **Three outcomes:**
+  1. **Protect them** (hardest) — they survive, permanently empowered
+  2. **Let them sacrifice** — boss dies instantly, they die. Goodbye scene if romanced.
+  3. **They lead it away** — boss despawns, they leave alive. Possible rare return in future run.
+
+---
+
+### 13. Mime — Eldritch (Weird + Weird) [*needs full design*]
+
+- Uses invisible walls that actually work to reinforce areas or funnel waves
+- Pinned concept, not yet designed
+
+---
+
+### 14. Candice — Engineer (Fixer + Knowledge)
+
+- **Age:** Late 20s (28-29)
+- **Gender:** Female
+- **Personality:** Serious, precise, doesn't hedge. Respects competence. Fiercely competitive at board games and D&D. Reads constantly. Loses gracefully but it eats her alive. Always has a book in her back pocket.
+- **Pre-apocalypse:** Civil engineer — water treatment, structural reinforcement. Weekly D&D group. Cat named Load-Bearing Wall.
+- **Arrival:** Walks the perimeter, takes notes. "Your north wall is going to collapse. I can fix it. Can I stay?"
+- **Trait:** Structural Analysis — buildings/walls she designs get +30% HP. Can inspect perimeter daily to predict hardest-hit section. Unlocks advanced building upgrades.
+- **Gameplay:** Builds smart — moderate cost, high value. Turns basic fences into layered defense systems. Best defensive infrastructure builder.
+- **Heart events:** H2: structural assessment on your table. Detailed, insulting, accurate. "Good bones though." H4: board game, she wins, secret fist pump. H6: reads to you by lantern. "My D&D group used to do this. It's stupid." It's not. H8: a wall she built holds, she's frustrated she overbuilt it. Perfectionism is fear — if she's wrong, people die. H10: full community redesign plans, plus a character sheet. "You're joining D&D. Not optional."
+- **Max-bond ability:** Fortification Mastery — all walls/buildings to max HP +50% bonus for one wave.
+- **Weakness:** Zero combat. Perfectionism slows builds. Clashes with Pax. Morale hit when her builds are destroyed.
+- **Romanceable:** Yes — competitive flirting over board games. Shows love via structural assessments. "I reinforced your bedroom wall. Not personal." It's personal.
+
+---
+
+### 15. Greg — Heart (Community + Community)
+
+- **Age:** Early-to-mid 40s
+- **Gender:** Male
+- **Personality:** Warm in an uncool way. Dad jokes. Hums while cooking. Plays guitar around the fire — not great, nobody wants him to stop. Asks how you're doing and actually listens. Openly admits he's scared. Cries openly. Greg Universe energy.
+- **Pre-apocalypse:** Insurance adjuster. Played in a band in his 20s that almost went somewhere. Divorced amicably, shared custody of two kids (10 and 13). Cooked dinner every night. Coached little league badly.
+- **The weight:** Kids were with their mom when it started. Doesn't know if they're alive. Every meal and song is practice for when he sees them again.
+- **Arrival:** Starter or early. Walks up with guitar case and duffel. Looks lost. Isn't good at the first things you assign him. Then someone's having a bad day and you realize what he's for.
+- **Trait:** Comfort — passive morale boost. His meals give stronger buffs. Can "check in" with one character per day to reduce stress. Guitar playing gives global morale regen between waves.
+- **Gameplay:** Mediocre at everything except preventing morale death spirals. In a smooth run he feels unnecessary. In a brutal run he's why you survive.
+- **Heart events:** H2: cooks pasta from nothing. "It's just noodles." It's not. H4: playing a kids' song alone at night. You don't interrupt. H6: teaches you his mom's recipe. Talks about his kids for the first time. H8: after a bad night, makes food, plays guitar, people gather. Nobody says anything important. Most important night on the farm. H10: a song he wrote about the farm. Clumsy, earnest, rhymes don't all work. "I wanted there to be a record. In case."
+- **Max-bond ability:** Home — all morale maxed for entire night. Nobody panics, flees, or breaks. Spectral attacks do nothing.
+- **Weakness:** Useless in combat, below average physical. Cooking uses more food. If HIS morale breaks, everyone feels it.
+- **Romanceable:** Yes — gentle, present. You make dinner, he keeps you alive.
+
+---
+
+## Pinned Concepts (Undesigned)
+
+- **Diminished God** — weakened trickster who needs the farm. Slot TBD.
+- **Chaos Agent** — magnetic manipulator trickster. Slot TBD (possibly Weird+Weird but uncertain).
+- **Practitioner Witch** (Knowledge+Weird) — young modern practicing witch/pagan. Second occultist variant.
+- **Cult Survivor as Boss Vess** — 80% boss chance when Vess not in pool. Secret rescue via Mabel + Everett.
