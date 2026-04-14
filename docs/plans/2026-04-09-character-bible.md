@@ -392,3 +392,22 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 - **Chaos Agent** — magnetic manipulator trickster. Slot TBD (possibly Weird+Weird but uncertain).
 - **Practitioner Witch** (Knowledge+Weird) — young modern practicing witch/pagan. Second occultist variant.
 - **Cult Survivor as Boss Vess** — 80% boss chance when Vess not in pool. Secret rescue via Mabel + Everett.
+
+---
+
+### 17. The Hearth Spirit — Heart (Community + Community) with Divine tag
+
+- **Age:** Ageless. Shifts. Sometimes a child, sometimes ancient. Nobody agrees.
+- **Gender:** Seed-dependent. Male, female, or ambiguous depending on the run.
+- **Name:** Has none — the community names them. Seed-dependent pool: Ash, Briar, Moss, Elm, Clay, Fern, Glen, Reed, Stone, Wren.
+- **Appearance:** Human-shaped but not human. Bark-textured skin, hair moves like grass in wind, eyes change color with seasons (green spring, gold summer, amber fall, pale grey winter). Barefoot always, things grow where they step. Appearance reflects the farm: healthy crops = vibrant with flowers in hair. Damaged walls = bruised, cracked. Starving = gaunt, wilting.
+- **Personality:** Patient on a geological timescale. Speaks simply but with weight. Long silences. Finds humans fascinating and baffling. "You live such short, loud lives." Quiet dry humor. Loves the land fiercely — the people grow on them over time.
+- **Pre-apocalypse:** They've always been here. The spirit of this land — the creek, the hill, the old oak, the soil. Dormant for centuries, making crops grow better and storms pass easier. The apocalypse woke them because it's poisoning the earth.
+- **Arrival:** Found standing in the farm at dawn, hand flat to the ground. "Something is wrong with the roots. I came to help." If asked who they are: "I'm the place you're standing."
+- **Trait:** Living Land — crops grow 25% faster, soil recovers quicker, land warns of underground threats, senses enemy approach. Damaged buildings near them slowly regenerate during the day.
+- **Gameplay:** Not a fighter, builder, or researcher. Passive buffs to everything farm-related. Assign to "tend the land" for global farm efficiency. At night, designate one ground section as sanctuary — enemies slowed and damaged by the earth. Knows optimal building placement, water table, best soil.
+- **Heart events:** H2: talking to the old oak tree. Embarrassed when caught. "She has opinions." H4: touches your hand, you feel the water underground, the roots, the worms. Three seconds. Most beautiful thing ever. "Sorry. That's a lot for your kind." H6: farm damaged in bad night. Kneeling in ruined field, crying sap. "I felt every root that broke." H8: tells you what they are. Watched people come and go for millennia. "You're all so temporary. I've learned not to get attached." Beat. "I'm failing at that." H10: leaves the farm for the first time — walks with you on excursion. Visibly weaker with every step away. When you return, presses hands to ground and the entire farm blooms at once. "I wanted to give you something. This is all I have."
+- **Max-bond ability:** Sanctuary — once per night, the farm fights back. Roots erupt, earth walls rise, soil swallows enemies. Massive damage + slow to all ground enemies for one wave.
+- **Weakness:** Cannot leave farm without weakening. Useless at human tasks. Incapacitated when farm is badly damaged. Cannot fight directly. Some characters find them unsettling.
+- **Romanceable:** Yes — falling in love with a place. They're falling in love with a person for the first time in millennia. "You'll die someday. But the soil will remember where you walked."
+- **Dynamic with others:** Greg: wildflowers grow where he plays guitar. Mabel: they communicated through wards for decades without meeting. Ohm: "is the land a machine?" redefines both worldviews. Rowan: iron from their ore is stronger. Vess: her sigils react to the spirit — the cult knew about them. Deep One: two ancient beings, different elements. Jasper: leaves carved figures by the oak without knowing why.
