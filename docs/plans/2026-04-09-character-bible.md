@@ -272,21 +272,45 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 
 ---
 
-### 11. Folklore Trickster — Fighter + Weird [*needs name/detail pass*]
+### 11. Coyote — Berserker (Fighter + Weird)
 
 - **Age:** Appears mid 30s. Isn't.
 - **Gender:** Presents male but flickers. Characters disagree on appearance.
-- **Personality:** Charming, evasive, impossible to pin down. Answers questions with questions. Never afraid. Likes humans the way you like an interesting ant farm. Every interaction feels like a friendly test.
+- **Personality:** Charming, evasive, impossible to pin down. Answers questions with questions. Never afraid. Likes humans the way you like an interesting ant farm. Every interaction feels like a friendly test. Interacts mostly by watching and cackling. Excited at the prospect of being told something amusing.
 - **Pre-apocalypse:** "I was a river once. That was boring."
 - **Arrival:** Just there one morning on a fence post. Nobody saw them come.
-- **Name:** Player picks from seed-dependent pool (Mr. Fox, Jack, Robin, Grin, Chance, Nobody, Catch).
+- **Name:** Coyote (placeholder — may change). Player-facing name seed-dependent from pool (Mr. Fox, Jack, Robin, Grin, Chance, Nobody, Catch).
 - **Trait:** Trick — high evasion, moderate damage. Places "tricks" that redirect enemy pathing. Semi-random effects.
 - **Gameplay:** Disrupts enemy waves. Enemies behave erratically in their zone. Unreliable but spectacular. Generates unique rare item drops.
 - **Heart events:** H2: story about a fox building a house (it's about you). H4: talking to something invisible. H6: gets serious once — "This wasn't supposed to go like this. Someone cheated." H8: saves a life impossibly, genuinely tired after. It's costing them something. H10: tells you their real name (unpronounceable). Gift that breaks one game rule.
 - **Max-bond ability:** The Oldest Trick — reroute entire wave, all enemies turn around. Doesn't work on bosses.
 - **Weakness:** Unreliable, tricks backfire sometimes, can't do normal work, morale penalty for some characters. Mabel doesn't trust them.
-- **Romanceable:** No — close friendship but always a boundary.
+- **Romanceable:** No — close friendship but always a boundary. If romanced, finds you novel — your lifespan isn't a long commitment to them.
 - **Not human.**
+
+#### Visual Design
+
+**Two forms:** god form and human form. Constants across both: heterochromia (one red eye, one blue eye), the laugh, red/blue/black palette at high saturation (Pokemon Red/Blue cartridge colors).
+
+**God Form:**
+- Unnaturally large African wild dog (wolf-sized or bigger)
+- Jet black base coat with red and blue patchwork replacing natural painted dog markings
+- Patterns shift scene-to-scene; red/blue balance may serve as visual indicator for a hidden mechanic (TBD)
+- Paint medium shifts per scene (cave painting, street mural, warpaint, etc.) — always red/blue/black
+- Sharp K-9 teeth prominent, always mid-laugh or cackling
+
+**Human Form:**
+- Tall and lean, sharp angular face, warm tan skin
+- Black faux-hawk split red/blue down the center
+- Van dyke with red or blue tip
+- Sharp K-9 teeth, most visible when laughing
+- Immaculately dressed — supernatural drip. Primary fit: sharp modern suit in red/blue/black. Seed-dependent alt fits: vintage dapper, rock star, showman
+- Manicured nails painted red and blue, often holding a long cigarette holder
+- Crouches like L from Death Note, head tilts when amused
+- Unnaturally still — only breathes when they realize you've noticed
+- Mirrors and still water show the painted dog, not the man
+- Scent: woodsmoke, pine, tobacco
+- Charming but not quite human. Not an enemy, but potentially dangerous
 
 ---
 
@@ -373,7 +397,7 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 
 #### Ohm's Apotheosis Event
 - **Trigger:** Ohm at 8+ hearts, Broken God is real this run, Mechanical Apotheosis research completed.
-- **Special:** If another deity character (Trickster, Deep One, etc.) is present, unique social cutscenes between divine beings — gods recognizing each other, machines behaving strangely around the Trickster, conversations in impossible languages.
+- **Special:** If another deity character (Coyote, Deep One, etc.) is present, unique social cutscenes between divine beings — gods recognizing each other, machines behaving strangely around Coyote, conversations in impossible languages.
 - **Ohm chooses for herself.** Player choices throughout the run influence the probability but do NOT determine the outcome. Supporting her faith, encouraging independence, how you handled machine-vs-people conflicts, key dialogue choices — all shift the odds.
 - **Three outcomes:**
   1. **Full Apotheosis** (~33% base, shifts higher if player supported her faith) — the Broken God finds her worthy and she accepts. Metal grows across her skin, eyes become lit displays, voice gains harmonic undertone. Becomes Avatar of the Broken God. Machines at 300% in her presence, instant touch-repair, can command turret volleys. But less human — conversations stranger, hearing frequencies you can't.
@@ -429,4 +453,4 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 - **Max-bond ability:** Reality Exception — once per night, rewrite one rule for one wave. Enemies can't damage walls. Turrets have infinite range. Gravity reverses. Player chooses the rule. Cheshire implements with a grin. Side effects may apply.
 - **Weakness:** Global morale drain — every character takes a small daily morale hit while Cheshire is present. Some hit harder: Vess (wrongness), Candice (physics violations), Greg (can't articulate why). Chaos Field can hurt you on a bad roll. They "help" in ways you didn't want — still learning boundaries.
 - **Romanceable:** Yes — ace romance. Deep, committed, intimate, never physical. They love you completely in the way that makes sense for what they are. A warm cat in your lap. Stars rearranged into something that means "you." The romance is intellectual, emotional, spiritual. Fills ace representation in a dating sim, and it's with the most powerful being in the game.
-- **Dynamic with others:** Folklore Trickster: NEVER in the same run. Two reality-warpers would collapse the seed. Mabel: hostile, wards flare. Hearth Spirit agrees. Ohm: machines go haywire near them. "Stop scaring them!" Rem: tries to study them, notes stop making sense after page 3. Zoe: cannot model them, hates them, they think her frustration is adorable. Jasper: offers them beef jerky. They don't eat but hold it and seem touched. Greg: plays guitar, they go still. "That vibration pattern. Organized chaos. I like organized chaos." Hums along. Harmony shouldn't work. Does.
+- **Dynamic with others:** Coyote: NEVER in the same run. Two reality-warpers would collapse the seed. Mabel: hostile, wards flare. Hearth Spirit agrees. Ohm: machines go haywire near them. "Stop scaring them!" Rem: tries to study them, notes stop making sense after page 3. Zoe: cannot model them, hates them, they think her frustration is adorable. Jasper: offers them beef jerky. They don't eat but hold it and seem touched. Greg: plays guitar, they go still. "That vibration pattern. Organized chaos. I like organized chaos." Hums along. Harmony shouldn't work. Does.

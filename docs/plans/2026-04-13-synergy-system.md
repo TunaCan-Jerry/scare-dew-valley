@@ -12,11 +12,11 @@ Every character has:
 
 | Tag | Description | Characters |
 |-----|-------------|------------|
-| **Divine** | Gods, spirits, or conduits of divine power | Ohm (conditional), Hearth Spirit, Folklore Trickster, Vess, Cheshire |
+| **Divine** | Gods, spirits, or conduits of divine power | Ohm (conditional), Hearth Spirit, Coyote, Vess, Cheshire |
 | **Technomancer** | Tech ability that borders on supernatural | Ohm, Pax, Candice |
 | **Occult** | Supernatural knowledge or practice | Everett, Mabel, Vess, Rem (seed-dependent: only if theology or folklore interest) |
 | **Military** | Formal combat training | Sal, Jasper, Marco |
-| **Outsider** | Non-human or from outside normal reality | Deep One, Folklore Trickster, Cheshire, Hearth Spirit |
+| **Outsider** | Non-human or from outside normal reality | Deep One, Coyote, Cheshire, Hearth Spirit |
 | **Caretaker** | Primarily keeps people going emotionally/physically | Greg, Marco, Mabel |
 | **Maker** | Builds, forges, or creates physical things | Rowan, Pax, Candice, Ohm |
 
