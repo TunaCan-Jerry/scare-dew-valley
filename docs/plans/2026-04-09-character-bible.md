@@ -270,6 +270,18 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 - **Weakness:** Can't fight. Crashes after manic periods. Can seem condescending. Overrides others' plans.
 - **Romanceable:** Yes — MPDG subversion: she's not saving you, you're grounding her.
 
+#### Visual Design
+
+- Petite but sharp — small frame, precise movements, surprising presence for her size
+- Neon red messy pixie-cut hair
+- Big round oversized glasses, slightly too large for her face
+- Bright green eyes with slight dark circles from late nights
+- Graphic tee (board game or retro game reference) layered under an oversized flannel with sleeves rolled up
+- Jeans with marker stains, beat-up high-top sneakers covered in doodles
+- Lanyard with dice or game cafe badge around her neck
+- Always carrying: beat-up notebook bursting with loose papers, sticky notes, and hand-drawn maps; coffee mug; dry-erase marker behind one ear, pencil behind the other
+- Multipass energy — vivid, kinetic, magnetically compelling, 100% nerd
+
 ---
 
 ### 11. Coyote — Berserker (Fighter + Weird)
@@ -293,7 +305,7 @@ Every character has a **primary pillar** and a **secondary pillar**. The combina
 **Two forms:** god form and human form. Constants across both: heterochromia (one red eye, one blue eye), the laugh, red/blue/black palette at high saturation (Pokemon Red/Blue cartridge colors).
 
 **God Form:**
-- Unnaturally large African wild dog (wolf-sized or bigger)
+- African wild dog with vulpine proportions — lean, narrow snout, large pointed ears, slender legs, lithe and compact. Not imposing. Dangerous the way a poison dart frog is dangerous — small, vivid, and wrong
 - Jet black base coat with red and blue patchwork replacing natural painted dog markings
 - Patterns shift scene-to-scene; red/blue balance may serve as visual indicator for a hidden mechanic (TBD)
 - Paint medium shifts per scene (cave painting, street mural, warpaint, etc.) — always red/blue/black
